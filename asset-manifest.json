@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nare/static/css/main.fd4d66db.css",
-    "main.js": "/nare/static/js/main.37c72924.js",
+    "main.js": "/nare/static/js/main.ca239048.js",
     "index.html": "/nare/index.html",
     "main.fd4d66db.css.map": "/nare/static/css/main.fd4d66db.css.map",
-    "main.37c72924.js.map": "/nare/static/js/main.37c72924.js.map"
+    "main.ca239048.js.map": "/nare/static/js/main.ca239048.js.map"
   },
   "entrypoints": [
     "static/css/main.fd4d66db.css",
-    "static/js/main.37c72924.js"
+    "static/js/main.ca239048.js"
   ]
 }
