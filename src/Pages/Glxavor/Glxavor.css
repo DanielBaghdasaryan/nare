@@ -1,0 +1,71 @@
+.kinoner {
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    justify-content: center;
+}
+
+.film {
+    width: 20vw;
+    height: calc(20vw / 1.07);
+    background: #fff;
+    position: relative;
+    overflow: hidden;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px -5px rgba(0,0,0,0.2);
+    }
+    
+    .img {
+    width: 20vw;
+    height: 10vw;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    }
+    
+    img {
+    filter: grayscale(100%);
+    width: 100%;
+    }
+    
+    .tvakan {
+    position: absolute;
+    background: #e36d6d;
+    width: 100%;
+    transform: rotate(45deg);
+    right: -40%;
+    top: 7%;
+    text-align: center;
+    }
+    
+    
+    .info {
+    width: 100%;
+    height: calc(100% - 10vw);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding-left: 10px;
+    }
+    
+    .anun {
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 600;
+    }
+    
+    .button {
+    width: 120px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 4px;
+    background: #fff;
+    box-shadow: 0px 0px 20px -5px rgba(0,0,0,0.2);
+    text-decoration: none;
+    color: #000;
+    }
+    
