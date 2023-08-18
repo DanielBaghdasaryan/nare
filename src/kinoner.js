@@ -241,7 +241,7 @@ export default [
 
             {
                 name: "Ավետ Ավետիսյան – Բուռնազյան",
-                image: "https://tse1.mm.bing.net/th?id=OIP.xW0qmaigqixgcUzEfczy_QAAAA&pid=Api&P=0&h=220"
+                image: ""
             },
 
             {
