@@ -24,7 +24,7 @@ const Glxavor = () => {
                                 {name}
                             </div>
                             <Link to={`/kino/${link}`} className='button'>
-                               Kardal avelin 
+                              Կարդալ ավելին
                             </Link>
                         </div>
                     </div>
